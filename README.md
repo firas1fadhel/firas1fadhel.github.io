@@ -35,3 +35,48 @@ Built a RESTful routes for the app to get all of the cards in the database and p
 * MERN stack used for this application.
 
 * The site will allow users to create accounts, and trade with other members. They will be able to rate their transactions, and leave comments. The site will host multiple retailers that offer gift cards, such as Starbucks, Home Depot, etc.
+
+## ADDITIONAL EXPERIENCE
+<b>EarthLink Tele. ISP provider –Technical Engineer and Pre-Sale Engineer –Baghdad Iraq Nov 2015-Sep 2016</b>
+
+<b>As an Engineer in major Internet Service provider company my Duties was:</b>
+
+* Make a survey for the future customers and supply them with a list of materials that may need and its estimated value.
+
+* Design the projects based on the client needs and the company interest related to the service type and equipment.
+
+* Establish maintenance to the equipment at the site and provide a daily report related to the task.
+
+* Install, upgrade and troubleshoot Cisco Network equipment.
+
+* Establish networks with TCP/IP models.
+
+<b>Al-Abrage for Engineering – Site Engineer and Quality Inspector-Basra –Iraq</b> <i>Jan - Aug 2015</i>
+
+* Setup all of the electrical works at the West Qurna 1 Oil Fields which operated by ExxonMobil.
+
+* Deliver a daily report about the site work progress and manpower needed.
+
+* Responsible for conducting all the tests required on site: isolation test using the Meger and Multimeter test to ensure the quality of Installment.
+
+* Check and Double-check all the connection between the Generators, VSD, and the wellhead and make the adjustment required to maintain the quality and safety.
+
+* Supervision over all site materials and tools and make a daily report about that. 
+
+<b>LCC lightning Bridge for Communications and Networking-RF Engineer-Baghdad-Iraq</b> <i>Mar 2012 - Dec 2014</i>
+
+* Conduct a field test to communication tower sites and indoor sites to make sure the quality of the service operated by Huawei and Ericsson.
+
+* Carried out diagnosis of desktop, application, networking and infrastructures issues
+
+* Optimized network performance to achieve targeted KPIs including statistics collection, monitoring, reporting, analysis, troubleshooting, frequency and parameter changes and system feature implementation. 
+
+* Analyzed network measurement using Actix, MapInfo, CME and Google Earth to identify issues affecting KPIs.
+
+* Designed wireless solutions spanning across all access technologies including GSM, CDMA, WiMAX, UMTS, FDD, TDD-LTE, wifi in addition to Power and Terminals (CPE, PTT, Smartphone) products
+
+* Presented company portfolio roadmaps and introduced vision, mission, products and solutions
+
+* Responded to customer requests for proposals; developed and billed materials for cost-effective solutions
+
+* Established strong relationships with technical decision makers such as CTOs, high-level management.
