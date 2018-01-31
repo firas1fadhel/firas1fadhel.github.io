@@ -67,16 +67,16 @@ Built a RESTful routes for the app to get all of the cards in the database and p
 
 * Conduct a field test to communication tower sites and indoor sites to make sure the quality of the service operated by Huawei and Ericsson.
 
-* Carried out diagnosis of desktop, application, networking and infrastructures issues
+* Carried out diagnosis of desktop, application, networking and infrastructures issues.
 
 * Optimized network performance to achieve targeted KPIs including statistics collection, monitoring, reporting, analysis, troubleshooting, frequency and parameter changes and system feature implementation. 
 
 * Analyzed network measurement using Actix, MapInfo, CME and Google Earth to identify issues affecting KPIs.
 
-* Designed wireless solutions spanning across all access technologies including GSM, CDMA, WiMAX, UMTS, FDD, TDD-LTE, wifi in addition to Power and Terminals (CPE, PTT, Smartphone) products
+* Designed wireless solutions spanning across all access technologies including GSM, CDMA, WiMAX, UMTS, FDD, TDD-LTE, wifi in addition to Power and Terminals (CPE, PTT, Smartphone) products.
 
-* Presented company portfolio roadmaps and introduced vision, mission, products and solutions
+* Presented company portfolio roadmaps and introduced vision, mission, products and solutions.
 
-* Responded to customer requests for proposals; developed and billed materials for cost-effective solutions
+* Responded to customer requests for proposals; developed and billed materials for cost-effective solutions.
 
 * Established strong relationships with technical decision makers such as CTOs, high-level management.
