@@ -13,6 +13,7 @@
 * An intensive 24-week boot camp dedicated to designing and building web applications. Skills learned consisted of HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handlebars JS, & React Js. 
 
 <b>University Of Technology - Iraq, Baghdad</b> September 2010 - September 2014
+
 <i>Bachelors of Science. Electrical and Electronic Engineering</i>
 
 ## Freelance Projects
